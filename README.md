@@ -8,7 +8,7 @@ This repository uses convolutional neural networks (CNN) in multi-image classifi
 
 The dataset or split_palmleaves1 was balanced with classes of palm leaf diseases through data augmentation and implementation before model training. It is a public dataset from: https://www.kaggle.com/datasets/hadjerhamaidi/date-palm-data
 
-### Installing
+## How to use
 
 * Download and upload split_palmleaves1 to Google Drive
 * Open Disease Classification.ipynb in Google Colab
